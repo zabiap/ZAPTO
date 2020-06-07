@@ -1,0 +1,26 @@
+.list_row{
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.content{
+    font-size: 30px;
+}
+.delete{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+.edit{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+.btm_row{
+    color: rgba(0,0,0,0.7)!important;
+}
