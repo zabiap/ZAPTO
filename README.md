@@ -4,13 +4,13 @@ Zapto is an incredibly close to being an ideal tool for you to collect and manag
 
 INSTRUCTIONS
 
-DOWNLOAD THE FILES TO YOUR PC
+DOWNLOAD THE FILES TO YOUR PC 
 
-STEP-1 : Open the client folder in cmd and type
-          npm install
-STEP-2 : Open the server folder in cmd and type
-          npm install
-STEP-3 : Open the db.js file located at server/db/db.js
-          Add your custom MongoDB Atlas url
-STEP-4 : "npm start" in the client folder
-STEP-5 : "npm start" in the server folder
+STEP-1 : Open the client folder in cmd and type  
+          npm install  
+STEP-2 : Open the server folder in cmd and type  
+          npm install  
+STEP-3 : Open the db.js file located at server/db/db.js  
+          Add your custom MongoDB Atlas url  
+STEP-4 : "npm start" in the client folder  
+STEP-5 : "npm start" in the server folder  
